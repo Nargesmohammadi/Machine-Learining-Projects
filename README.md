@@ -33,7 +33,7 @@ This repository hosts a collection of projects focused on predictive modeling in
 9. Medical Insurance Cost Prediction 💊
    - Estimate medical insurance costs for individuals based on their attributes.
 
-10. Rock and Mine Prediction 🎵
+10. Rock and Mine Prediction 🪨️ 
     - Differentiate between rocks and mines using sonar signals.
 
 11. Wine Quality Prediction 🍷
